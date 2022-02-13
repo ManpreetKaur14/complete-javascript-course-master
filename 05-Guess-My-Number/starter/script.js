@@ -4,3 +4,4 @@ let score = 0;
 let highscore = 0;
 
 // document.querySelector('.message').textContent = '🎉 Correct Number!';
+//
